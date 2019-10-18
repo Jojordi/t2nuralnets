@@ -44,4 +44,10 @@ mientras se acercan al resultado deseado
 
 ![alt text](BitSeq.png)
 
+![alt text](WordSeq.png)
+
+![alt text](MistakeSeq.png)
+
+
+
 
