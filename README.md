@@ -42,3 +42,6 @@ En base a los gráficos obtenidos y observados se aprecia el carácter logarítm
 mientras se acercan al resultado deseado
 
 
+![alt text](BitSeq.png)
+
+
